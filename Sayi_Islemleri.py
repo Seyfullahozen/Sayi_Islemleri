@@ -1,4 +1,3 @@
-#20010011055 Mehmet Seyfullah Özen
 def menu():
     secim =-1
     while secim!=3:
